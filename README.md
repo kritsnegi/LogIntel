@@ -12,7 +12,4 @@
 ## 🛠️ Tech Stack
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Firebase (Auth, Firestore)
-- **AI Engine**: Gemini Pro (Google AI Studio)
-
-### 📦 Project Structure (Planned)
-
+- **AI Engine**: Gemini (Google AI Studio)
